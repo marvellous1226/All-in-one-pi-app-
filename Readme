@@ -1,0 +1,33 @@
+# All-in-One Pi App
+
+![All-in-One Pi App Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pi-symbol.svg/320px-Pi-symbol.svg.png)
+
+The **All-in-One Pi App** is a multipurpose platform that combines **social features, finance tools, and games** in one easy-to-use interface — designed for **Pi Network users, business owners, students, and the general public**.
+
+## 🚀 Features
+- 📱 **Social** – Connect and interact with other Pi users
+- 💰 **Finance** – Manage and track Pi-related transactions
+- 🎮 **Games** – Fun and engaging Pi-based games
+- 🌐 **Business Tools** – Promote and manage your Pi-related services
+
+## 🎯 Target Audience
+- Pi Network enthusiasts
+- Business owners
+- Students
+- General public
+
+## 📦 Installation
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/your-username/all-in-one-pi-app.git
+    ```
+2. Open the `index.html` file in your browser or deploy to your preferred hosting.
+
+## 🔒 Privacy Policy
+[View Privacy Policy](PRIVACY_POLICY.md)
+
+## 🛠 Development URL
+[Access Development Version](https://your-dev-url.com)
+
+## 📬 Contact
+For inquiries, suggestions, or support, contact: **onahchukwuemeka28@gmail.com**
